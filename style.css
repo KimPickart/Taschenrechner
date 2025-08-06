@@ -9,7 +9,7 @@ html{
 
 #calculator{
     display: grid;
-    grid-template-columns: 100px 100px 100px 100px;
+    grid-template-columns: 80px 80px 80px 80px;
     grid-template-rows: 1fr 1fr 1fr 1fr;
     gap: 20px;
 }
@@ -84,3 +84,4 @@ html{
     justify-content: center;
     align-items: center;
 }
+
