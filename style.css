@@ -75,4 +75,12 @@ html{
     padding-top: 5px;
     font-family: Arial, Helvetica, sans-serif;
     border-color: rgba(92, 92, 92, 0.233);
+
+}
+
+.gesamt{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
